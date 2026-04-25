@@ -19,7 +19,7 @@ Passionate about ensuring software quality and delivering bug-free applications.
 ✔ Manual Testing  
 ✔ Test Case Design  
 ✔ Bug Reporting (JIRA)  
-✔ API Testing (Postman)  
+✔ API Testing (Postman,JMeter)  
 ✔ SDLC & STLC
 
 ✔ Selenium, Appium (Java)
