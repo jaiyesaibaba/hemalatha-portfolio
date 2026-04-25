@@ -21,6 +21,7 @@ Passionate about ensuring software quality and delivering bug-free applications.
 ✔ Bug Reporting (JIRA)  
 ✔ API Testing (Postman)  
 ✔ SDLC & STLC
+
 ✔ Selenium, Appium (Java)
   
 
