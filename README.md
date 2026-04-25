@@ -19,7 +19,7 @@ Passionate about ensuring software quality and delivering bug-free applications.
 ✔ Manual Testing  
 ✔ Test Case Design  
 ✔ Bug Reporting (JIRA)  
-✔ Selenium (Basics)  
+✔ Selenium, Appium 
 ✔ API Testing (Postman)  
 ✔ SDLC & STLC  
 
@@ -46,6 +46,8 @@ Passionate about ensuring software quality and delivering bug-free applications.
 - GitHub
 - Jmeter
 - Playwright
+- Appium
+- Rest Assured
 
 ---
 
